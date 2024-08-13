@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+### Project Setup
+
+- **Clone the repo - git clone https://github.com/Akhil0632/ProjectManagementApp.git**
+- **Create .env and copy .env.example**
+- **Install dependencies - composer install**
+- **Make sure you have your key generated. If not, Generate key with this command - php artisan key:generate**
+- **Migration to the database- php artisan migrate**
+- **Seed the database  - php artisan db:seed**
+- **Run project - php artisan serve**
+
+### URL of Project 
+- **Visit the url http://127.0.0.1:8000/projects to access into the application. **
